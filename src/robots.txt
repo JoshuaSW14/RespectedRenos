@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://respectedrenos.com/sitemap.xml
